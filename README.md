@@ -1,4 +1,4 @@
 Restaurant
 ==========
 
-A template for Restaurant business
+This Website for Restaurant business
